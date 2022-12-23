@@ -1,0 +1,17 @@
+C:\Solvery\HW_3\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\Solvery\HW_3\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\Solvery\HW_3\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Solvery\HW_3\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\Solvery\HW_3\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\Solvery\HW_3\Task_4\bin\Debug\net6.0\ConsoleTables.dll
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.csproj.CopyComplete
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\refint\Task_4.dll
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
+C:\Solvery\HW_3\Task_4\obj\Debug\net6.0\ref\Task_4.dll
