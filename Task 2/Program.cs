@@ -22,7 +22,7 @@ class Programm
         var count = 1;
         var max = 1;
         for (var j = 0; j < list.Count - 1; j++)
-            if (list[j] - list[j + 1] == 0)
+            if (list[j] == list[j + 1])
                 count++;
             else
                 count = 1;
